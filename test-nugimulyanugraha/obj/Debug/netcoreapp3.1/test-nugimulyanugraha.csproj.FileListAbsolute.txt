@@ -1,0 +1,11 @@
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\obj\Debug\netcoreapp3.1\test-nugimulyanugraha.csprojAssemblyReference.cache
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\obj\Debug\netcoreapp3.1\test-nugimulyanugraha.AssemblyInfoInputs.cache
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\obj\Debug\netcoreapp3.1\test-nugimulyanugraha.AssemblyInfo.cs
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\bin\Debug\netcoreapp3.1\test-nugimulyanugraha.exe
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\bin\Debug\netcoreapp3.1\test-nugimulyanugraha.deps.json
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\bin\Debug\netcoreapp3.1\test-nugimulyanugraha.runtimeconfig.json
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\bin\Debug\netcoreapp3.1\test-nugimulyanugraha.runtimeconfig.dev.json
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\bin\Debug\netcoreapp3.1\test-nugimulyanugraha.dll
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\bin\Debug\netcoreapp3.1\test-nugimulyanugraha.pdb
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\obj\Debug\netcoreapp3.1\test-nugimulyanugraha.dll
+C:\Users\Nugi\source\repos\test-nugimulyanugraha\test-nugimulyanugraha\obj\Debug\netcoreapp3.1\test-nugimulyanugraha.pdb
